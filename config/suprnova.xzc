@@ -1,0 +1,18 @@
+{
+    "api-bind" : "127.0.0.1:4048",
+    
+    "url" : "stratum+tcp://xzc.suprnova.cc:1599",
+    "user" : "Kukara4a.xzc",
+    "pass" : "x",
+    
+    "algo" : "lyra2z",
+    "threads" : 3,
+    "cpu-priority" : 4,
+    "scantime": 4,
+    
+    "benchmark" : false,
+    "debug" : false,
+    "protocol": false,
+    "show-diff": true,
+    "quiet" : true
+}

@@ -1,0 +1,13 @@
+{
+    "api-bind" : "127.0.0.1:4048",
+
+    "user" : "13bteFH6V2s4BqBRVYJLUUKWHK2A2PTJTb",
+    
+    "threads" : 3,
+    "cpu-priority" : 4,
+    
+    "benchmark" : false,
+    "debug" : false,
+    "protocol": false,
+    "quiet" : true
+}

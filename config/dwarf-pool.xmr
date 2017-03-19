@@ -1,0 +1,18 @@
+{
+    "api-bind" : "127.0.0.1:4048",
+
+    "algo" : "cryptonight",
+    
+    "url" : "stratum+tcp://xmr-eu.dwarfpool.com:8100",
+    "user" : "47sghzufGhJJDQEbScMCwVBimTuq6L5JiRixD8VeGbpjCTA12noXmi4ZyBZLc99e66NtnKff34fHsGRoyZk3ES1s1V4QVcB.cc116c1eda4728d30fa29e79092e22abaf48da2329d998235d3efedd0f27e643.111",
+    "pass" : "x",
+    
+    "_comment1" : "number of CPU cores",
+    "threads" : 3,
+    "cpu-priority" : 4,
+
+    "benchmark" : false,
+    "debug" : false,
+    "protocol": false,
+    "quiet" : true
+}

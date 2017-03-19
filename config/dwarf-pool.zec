@@ -1,0 +1,18 @@
+{
+    "api-bind" : "127.0.0.1:4048",
+
+    "algo" : "equihash",
+    
+    "url" : "stratum+tcp://zec-eu1.dwarfpool.com:3334",
+    "user" : "t1ZBZEaQYASn6BvbPi8BnaNL5vXhXrdeLhk.111",
+    "pass" : "x",
+
+    "_comment1" : "number of CPU cores",
+    "threads" : 3,
+    "cpu-priority" : 4,
+
+    "benchmark" : false,
+    "debug" : false,
+    "protocol": false,
+    "quiet" : true
+}

@@ -1,0 +1,16 @@
+{
+    "algo" : "cryptonight",
+    
+    "url" : "stratum+tcp://cryptonight.eu.nicehash.com:3355",
+    "user" : "1GShTrz7XSUd8r7L6eoWbxjBVtZt1kr5NB.worker1",
+    "pass" : "x",
+        
+    "_comment1" : "number of CPU cores",
+    "threads" : 3,
+    "cpu-priority" : 4,
+
+    "benchmark" : false,
+    "debug" : false,
+    "protocol": false,
+    "quiet" : true
+}
