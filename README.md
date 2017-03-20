@@ -2,7 +2,7 @@
 ---
 #### This is an example menu based on the batch file for using [Cpuminer-opt](https://bitcointalk.org/index.php?topic=1326803.0) (optimized multi algo CPU miner ).
 
-Video URL     [YouTube](https://youtu.be/5lNR_efBHfE)
+Video URL     [YouTube](https://youtu.be/rCGeZT7zdNA)
 
 **Donation**
 
